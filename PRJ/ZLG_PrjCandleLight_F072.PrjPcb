@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GZNCECYV
 
 [Document2]
-DocumentPath=..\PCB\ZLG_CandleLight_F072_V0.1_20250919.PcbDoc
+DocumentPath=..\PCB\ZLG_CandleLight_F072_V0.2_20250920.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WSYGJARN
 
 [Configuration1]
 Name=Sources
